@@ -1,0 +1,7 @@
+#COMPONENTS USED
+Arduino uno.
+Fire sensor(IR).
+Gas sensor(MQ3).
+LCD and buzzer.
+RPS(Regulated Power Supply).
+WIFI module. 
