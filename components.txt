@@ -2,6 +2,7 @@
 Arduino uno.
 Fire sensor(IR).
 Gas sensor(MQ3).
-LCD and buzzer.
+LCD display and buzzer.
 RPS(Regulated Power Supply).
 WIFI module. 
+TELNET application.
