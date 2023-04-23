@@ -5,4 +5,4 @@ Gas sensor(MQ3).
 LCD display and buzzer.
 RPS(Regulated Power Supply).
 WIFI module. 
-TELNET application.
+TELNET application.(version-1.0.1)
